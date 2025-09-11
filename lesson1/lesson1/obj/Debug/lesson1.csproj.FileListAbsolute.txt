@@ -1,0 +1,10 @@
+H:\c#\שיעור 1\lesson1\lesson1\bin\Debug\lesson1.exe.config
+H:\c#\שיעור 1\lesson1\lesson1\bin\Debug\lesson1.exe
+H:\c#\שיעור 1\lesson1\lesson1\bin\Debug\lesson1.pdb
+H:\c#\שיעור 1\lesson1\lesson1\bin\Debug\Shapes.dll
+H:\c#\שיעור 1\lesson1\lesson1\bin\Debug\Shapes.pdb
+H:\c#\שיעור 1\lesson1\lesson1\obj\Debug\lesson1.csproj.AssemblyReference.cache
+H:\c#\שיעור 1\lesson1\lesson1\obj\Debug\lesson1.csproj.CoreCompileInputs.cache
+H:\c#\שיעור 1\lesson1\lesson1\obj\Debug\lesson1.csproj.Up2Date
+H:\c#\שיעור 1\lesson1\lesson1\obj\Debug\lesson1.exe
+H:\c#\שיעור 1\lesson1\lesson1\obj\Debug\lesson1.pdb
